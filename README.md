@@ -53,5 +53,5 @@
 ---
 
 <p align="center">
-  <img src="https://media.tenor.com/DimzPZMypFcAAAAd/lain-iwakura-anime.gif" width="700"/>
+  <img src="[https://media.tenor.com/DimzPZMypFcAAAAd/lain-iwakura-anime.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OXZrdmN1bzJhY2F5a3I0NHdzNXRhdG1xNTFnc3dkeHdkajJoaXV5dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TrVla4Z2PYEkU/giphy.gif)" width="700"/>
 </p>
